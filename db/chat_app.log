@@ -1,0 +1,70 @@
+февр. 28, 2025 6:24:03 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ Foydalanuvchi logindan o‘tmoqchi bo‘ldi, lekin email topilmadi: ali@123.com
+февр. 28, 2025 6:24:40 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ⚠️ Xato password kiritildi: 1234567
+февр. 28, 2025 6:24:48 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: 🔙 Foydalanuvchi password kiritishdan voz kechdi.
+февр. 28, 2025 6:24:48 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ login da xatolik!
+февр. 28, 2025 6:26:22 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ Foydalanuvchi logindan o‘tmoqchi bo‘ldi, lekin email topilmadi: ali@mail.co
+февр. 28, 2025 6:27:22 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ⚠️ Xato password kiritildi: 123
+февр. 28, 2025 6:29:15 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ⚠️ Xato email kiritildi: ali
+февр. 28, 2025 6:29:36 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ⚠️ Xato password kiritildi: 1234
+февр. 28, 2025 6:29:40 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: 🔙 Foydalanuvchi password kiritishdan voz kechdi.
+февр. 28, 2025 6:29:40 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ login da xatolik!
+февр. 28, 2025 6:30:14 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ⚠️ Xato email kiritildi: Kamol
+февр. 28, 2025 6:30:27 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ Foydalanuvchi ro‘yxatdan o‘tmoqchi bo‘ldi, lekin email band: ali@mail.com
+февр. 28, 2025 6:31:01 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ⚠️ Xato password kiritildi: 123
+февр. 28, 2025 6:32:10 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ Yangi user qo‘shildi: kamol@mail.com
+февр. 28, 2025 6:32:10 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ User muvaffaqiyatli ro'yxatdan o'tdi!
+февр. 28, 2025 6:32:24 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ Foydalanuvchi logindan o‘tmoqchi bo‘ldi, lekin email topilmadi: kamol@mail.co
+февр. 28, 2025 6:32:40 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ User login boldi! Kamol
+февр. 28, 2025 6:33:20 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ Yangi meessage qo‘shildi: salom, men Kamol.
+февр. 28, 2025 6:33:20 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ Message yuborildi!
+февр. 28, 2025 6:33:48 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ User login boldi! Vali
+февр. 28, 2025 6:34:46 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ Yangi meessage qo‘shildi: yaxshi kamol
+февр. 28, 2025 6:34:46 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ Message yuborildi!
+февр. 28, 2025 6:35:06 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ User login boldi! Kamol
+февр. 28, 2025 7:33:24 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: 🔙 Foydalanuvchi email kiritishdan voz kechdi.
+февр. 28, 2025 7:33:24 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ Ro'yxatdan o'tishda xatolik!
+февр. 28, 2025 7:33:51 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ User login boldi! Vali
+февр. 28, 2025 7:34:08 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: User chat ni tark etdi!
+февр. 28, 2025 7:34:37 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ login da xatolik!
+февр. 28, 2025 7:34:56 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ❌ login da xatolik!
+февр. 28, 2025 7:35:17 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ User login boldi! Kamol
+февр. 28, 2025 7:35:50 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ Yangi meessage qo‘shildi: ha xop yaxshi vali
+февр. 28, 2025 7:35:50 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ Message yuborildi!
+февр. 28, 2025 7:35:54 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: User chat ni tark etdi!
+февр. 28, 2025 7:36:09 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: ✅ User login boldi! Vali
+февр. 28, 2025 7:40:13 PM uz.chat.app.util.LoggerUtil logInfo
+INFO: User chat ni tark etdi!
